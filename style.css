@@ -5,9 +5,8 @@ body {
 }
 
 header {
-    justify-content: center;
-    text-align: center;
-    align-items: center;
+    justify-content: left;
+    text-align: left;
     padding: 0px 40px;
     width: 100vw;
     height: 115px;
@@ -17,8 +16,8 @@ header img {
     align-items: center;
     width: 90px;
     height: 105px;
-    justify-content: center;
-    text-align: center;
+    justify-content: left;
+    text-align: left;
     margin-top: 0.5rem;
 }
 
