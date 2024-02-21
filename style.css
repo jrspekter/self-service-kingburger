@@ -44,6 +44,7 @@ main > section.items {
     max-width: 500px;
     min-width: 300px;
     justify-content: center;
+    margin-top: 1rem;
     
 }
 
@@ -107,6 +108,7 @@ section.summary {
     min-width: 200px;
     text-align: center;
     margin-left: 2rem;
+    margin-top: 1rem;
 }
 
 section.summary table {
